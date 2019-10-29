@@ -13,7 +13,7 @@
   "dependencies": {
     "@nuxtjs/apollo": "^4.0.0-rc16",
     "graphql": "^14.5.8",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.6.5",
     "uikit": "^3.2.2"
   },
   "devDependencies": {}
